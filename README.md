@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hamza El Mansouri 👋</h1>
+<h3 align="center">🚀 Software Architecture | 🛡️ Cybersecurity | 💻 Founder of ELMA Core</h3>
 
-<!--
-**HamzaElmansouri-Pr/HamzaElmansouri-Pr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+- 🎓 **Master's Graduate** in Software Engineering.
+- 🏢 Building scalable digital and automation solutions under **ELMA Core**.
+- 🔐 Deeply obsessed with software architecture, secure enterprise systems, and penetration testing.
+- 💻 Currently developing in a **Linux Mint** environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 🛠️ Tech Stack & Tools
+
+**Backend & Frameworks**<br/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Frontend**<br/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Security & Environment**<br/>
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-323330?style=for-the-badge&logo=gitkraken&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+
+<br/>
+
+### 📌 Highlighted Projects & Focus
+
+- 📦 **elma-core-infrastructure**: Core architecture and automation solutions for digital enterprise management (Laravel, Next.js).
+- 🛡️ **secure-enterprise-api**: Highly secure, scalable backend services with advanced authentication and penetration testing defenses.
+- 🌐 **laravel-advanced-gateway**: Custom routing and middleware architecture focused on robust security protocols.
+- 💻 **linux-dev-environment**: Dotfiles and automated setup scripts for optimizing a secure Linux Mint workspace.
+
+<br/>
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
