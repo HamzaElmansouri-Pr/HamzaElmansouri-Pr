@@ -18,9 +18,14 @@
 **Frontend**<br/>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-**Security & Environment**<br/>
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-323330?style=for-the-badge&logo=gitkraken&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+**🛡️ Security & Environment Operations**
+```bash
+hamza@elma-core:~$ ./initialize_security_protocols.sh
+[+] Booting Hardened Development Workspace...
+[+] Architecture  : Zero-Trust & Secure API Gateways
+[+] Defenses      : Advanced Penetration Testing 
+[+] Auth          : JWT / OAuth2 Implementation
+[+] Status        : Fully Operational 🚀
 
 <br/>
 
