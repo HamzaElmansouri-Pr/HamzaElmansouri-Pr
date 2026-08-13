@@ -42,3 +42,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HamzaElmansouri-Pr/HamzaElmansouri-Pr/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Master's+Student+in+Software+Engineering;Cybersecurity+%26+Architecture;Laravel+%26+Spring+Boot+Developer" alt="Typing SVG" />
+  </a>
+</p>
