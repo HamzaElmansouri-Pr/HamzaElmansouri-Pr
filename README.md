@@ -26,7 +26,7 @@ hamza@elma-core:~$ ./initialize_security_protocols.sh
 [+] Defenses      : Advanced Penetration Testing 
 [+] Auth          : JWT / OAuth2 Implementation
 [+] Status        : Fully Operational 🚀
-
+```
 <br/>
 
 ### 📌 Highlighted Projects & Focus
