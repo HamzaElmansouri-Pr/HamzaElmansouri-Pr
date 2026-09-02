@@ -1,49 +1,58 @@
 <h1 align="center">Hi, I'm Hamza El Mansouri 👋</h1>
-https://www.hamzaelmansouri.online/
+
+<p align="center">
+  <a href="https://www.hamzaelmansouri.online/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+</p>
+
 <h3 align="center">🚀 Software Architecture | 🛡️ Cybersecurity | 💻 Founder of ELMA Core</h3>
 
 <br/>
 
-- 🎓 **Master's Graduate** in Software Engineering.
-- 🏢 Building scalable digital and automation solutions under **ELMA Core**.
-- 🔐 Deeply obsessed with software architecture, secure enterprise systems, and penetration testing.
-- 💻 Currently developing in a **Linux Mint** environment.
+* 🎓 **Master's Graduate** in Software Engineering.
+* 🏢 Building scalable digital and automation solutions under **ELMA Core**.
+* 🔐 Deeply obsessed with software architecture, secure enterprise systems, and penetration testing.
+* 💻 Currently developing in a **Linux Mint** environment.
 
 <br/>
 
 ### 🛠️ Tech Stack & Tools
 
 **Backend & Frameworks**<br/>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
 
 **Frontend**<br/>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 
 **🛡️ Security & Environment Operations**
+
 ```bash
 hamza@elma-core:~$ ./initialize_security_protocols.sh
 [+] Booting Hardened Development Workspace...
 [+] Architecture  : Zero-Trust & Secure API Gateways
-[+] Defenses      : Advanced Penetration Testing 
+[+] Defenses      : Advanced Penetration Testing
 [+] Auth          : JWT / OAuth2 Implementation
 [+] Status        : Fully Operational 🚀
 ```
+
 <br/>
 
 ### 📌 Highlighted Projects & Focus
 
-- 📦 **elma-core-infrastructure**: Core architecture and automation solutions for digital enterprise management (Next.js).
-- 🛡️ **secure-enterprise-api**: Highly secure, scalable backend services with advanced authentication and penetration testing defenses.
-- 🌐 **advanced-api-gateway**: Custom routing and middleware architecture focused on robust security protocols.
-- 💻 **linux-dev-environment**: Dotfiles and automated setup scripts for optimizing a secure Linux Mint workspace.
+* 📦 **elma-core-infrastructure**: Core architecture and automation solutions for digital enterprise management (Next.js).
+* 🛡️ **secure-enterprise-api**: Highly secure, scalable backend services with advanced authentication and penetration testing defenses.
+* 🌐 **advanced-api-gateway**: Custom routing and middleware architecture focused on robust security protocols.
+* 💻 **linux-dev-environment**: Dotfiles and automated setup scripts for optimizing a secure Linux Mint workspace.
 
 <br/>
 
 ### 🐍 My Activity
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamzaElmansouri-Pr/HamzaElmansouri-Pr/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamzaElmansouri-Pr/HamzaElmansouri-Pr/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HamzaElmansouri-Pr/HamzaElmansouri-Pr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HamzaElmansouri-Pr/Hamzaelmansouri-Pr/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
